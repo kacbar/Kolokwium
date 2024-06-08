@@ -1,0 +1,8 @@
+C:\Users\s25101\Desktop\Kolos\Kolokwium\Kolokwium\obj\Debug\net8.0\Kolokwium.csproj.AssemblyReference.cache
+C:\Users\s25101\Desktop\Kolos\Kolokwium\Kolokwium\obj\Debug\net8.0\Kolokwium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s25101\Desktop\Kolos\Kolokwium\Kolokwium\obj\Debug\net8.0\Kolokwium.AssemblyInfoInputs.cache
+C:\Users\s25101\Desktop\Kolos\Kolokwium\Kolokwium\obj\Debug\net8.0\Kolokwium.AssemblyInfo.cs
+C:\Users\s25101\Desktop\Kolos\Kolokwium\Kolokwium\obj\Debug\net8.0\Kolokwium.csproj.CoreCompileInputs.cache
+C:\Users\s25101\Desktop\Kolos\Kolokwium\Kolokwium\obj\Debug\net8.0\Kolokwium.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s25101\Desktop\Kolos\Kolokwium\Kolokwium\obj\Debug\net8.0\Kolokwium.RazorAssemblyInfo.cache
+C:\Users\s25101\Desktop\Kolos\Kolokwium\Kolokwium\obj\Debug\net8.0\Kolokwium.RazorAssemblyInfo.cs
